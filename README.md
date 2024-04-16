@@ -51,6 +51,6 @@ Welcome to the Bootstrap Component Playground! This project showcases various Bo
 - script.js: External JavaScript file containing the logic for dynamic functionality.
 - assets: Directory containing images and other resource files used in the project.
 
-##Note:
+## Note:
 
 This project was developed as part of an assignment for COMP 10259. The primary goal was to practice problem-solving with JavaScript and integrate Bootstrap components effectively.
